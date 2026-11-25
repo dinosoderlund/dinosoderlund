@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**dinosoderlund/dinosoderlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dino – Junior Data Engineer · Stockholm
 
-Here are some ideas to get you started:
+Open to roles in Data Engineering, Analytics Engineering & BI · Email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build end-to-end data pipelines, from database to cloud to dashboard. 5+ months as a Data Engineering intern at Unit4 · Graduate of Nackademin
+
+⭐ Featured projects
+Bank Database: data platform with REST API, live dashboard and CI/CD
+User Management Database: secure logins + cloud pipeline in Azure
+ReadNext (in progress): manga & light novel recommendation engine on Snowflake
+
+📜 Certifications
+Microsoft Azure Data Fundamentals (DP-900)
+SnowPro Associate: Platform
+
+🛠️ Tech stack
+
+Languages: Python SQL
+Data & Cloud: Snowflake dbt Azure Data Factory SQL Server
+Tools: Docker GitHub Actions FastAPI
+
+🤖 Currently learning
+
+AI & MLOps: building and deploying ML models, from data pipeline to production
+
+💪 Outside of data
+🏋️ Gym 
+📚 Manga & light novel reader, which inspired ReadNext
+🇯🇵 Learning Japanese
+
+🗣️ Swedish, English
